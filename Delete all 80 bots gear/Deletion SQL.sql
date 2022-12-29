@@ -1,0 +1,1 @@
+DELETE FROM `ai_playerbot_equip_cache` WHERE lvl = '80'
