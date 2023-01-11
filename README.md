@@ -1,4 +1,4 @@
-# SPP_BIS_PVP_BOTS
+# SPP_BIS_PVP_BOTS for WOTLK
 
 To make the existing SPP (Single Player Project) bots better and more powerful in the way they are equipped. 
 This will ensure that the lvl 80 bots are BIS (best in slot) PVP equipped to have a more "real" and "hard" feeling in PVP situations. 
